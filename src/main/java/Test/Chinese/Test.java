@@ -1,10 +1,5 @@
 package Test.Chinese;
 
-import java.io.File;
-import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 /**
  * user:lenovo
  * email:2901949379@qq.com
